@@ -1,0 +1,13 @@
+###############################################################
+#                   Plugin made by zwoosks.                   #
+# Do not resell, redistribute, edit or decompile this plugin. #
+#            Contact me via Discord (zwoosks#5076)            #
+#             or via mail (zwoosks@protonmail.com             #
+###############################################################
+
+noAcess: "&cHello, %player%. I'm sorry to say that, but you don't have the permission node %perm% to execute this command."
+noLocation: "&c%player%, you don't have a previous location to teleport back!"
+teleported: "You've been teleported to your lastest location!"
+
+# Conserve the lastest location of the player if he/she leaves.
+deleteOnLeave: true

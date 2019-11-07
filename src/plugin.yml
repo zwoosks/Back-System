@@ -1,0 +1,8 @@
+main: org.crealityworks.back.Main
+name: BackSystem
+author: zwoosks
+version: 1.0
+commands:
+  back:
+    aliases: [goback, bck]
+    description: Go to your lastest location.
